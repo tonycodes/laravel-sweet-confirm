@@ -1,5 +1,5 @@
 # Laravel Sweet Confirm
-A simple Laravel Blade partial to add Sweet Alert confirmations to your forms. Ideal for when you need to ask you user if they really want to complete the action. (Requires <a href="https://github.com/uxweb/sweet-alert">Sweet Alert</a>).
+A simple Laravel Blade partial to add Sweet Alert confirmations to your forms. Ideal for when you need to ask your users if they really want to complete the action. (Requires <a href="https://github.com/uxweb/sweet-alert">Sweet Alert</a>).
 
 # Usage
 1. Include the partial in your view
